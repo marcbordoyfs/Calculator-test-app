@@ -1,0 +1,12 @@
+MarcCalculator.TestActivity, MarcCalculator;md51e8a2a2eb47b8bc7c5cf65e617e411cb.TestActivity
+MarcCalculator.TestActivity, MarcCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51e8a2a2eb47b8bc7c5cf65e617e411cb.TestActivity
+MarcCalculator.TestActivity;md51e8a2a2eb47b8bc7c5cf65e617e411cb.TestActivity
+marccalculator.TestActivity;md51e8a2a2eb47b8bc7c5cf65e617e411cb.TestActivity
+App1.MainActivity, MarcCalculator;md514301c56738e300c1fee4684870e3aea.MainActivity
+App1.MainActivity, MarcCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md514301c56738e300c1fee4684870e3aea.MainActivity
+App1.MainActivity;md514301c56738e300c1fee4684870e3aea.MainActivity
+app1.MainActivity;md514301c56738e300c1fee4684870e3aea.MainActivity
+App1.mylistveiw, MarcCalculator;md514301c56738e300c1fee4684870e3aea.mylistveiw
+App1.mylistveiw, MarcCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md514301c56738e300c1fee4684870e3aea.mylistveiw
+App1.mylistveiw;md514301c56738e300c1fee4684870e3aea.mylistveiw
+app1.mylistveiw;md514301c56738e300c1fee4684870e3aea.mylistveiw

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/tableLayout1">
+    <TableRow
+        p1:id="@+id/tableRow1"
+        p1:layout_marginRight="5dp"
+        p1:layout_marginLeft="5dp"
+        p1:layout_marginTop="20dp"
+        p1:showDividers="middle"
+        p1:paddingTop="5dp">
+        <TextView
+            p1:textAppearance="?android:attr/textAppearanceSmall"
+            p1:layout_column="0"
+            p1:id="@+id/textView1" />
+        <TextView
+            p1:textAppearance="?android:attr/textAppearanceSmall"
+            p1:layout_column="1"
+            p1:id="@+id/textView2" />
+        <TextView
+            p1:textAppearance="?android:attr/textAppearanceSmall"
+            p1:layout_column="2"
+            p1:id="@+id/textView3"
+            p1:layout_marginRight="0.0dp" />
+        <TextView
+            p1:textAppearance="?android:attr/textAppearanceSmall"
+            p1:layout_column="3"
+            p1:id="@+id/textView4" />
+    </TableRow>
+    <TableRow
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:id="@+id/tableRow8"
+        p1:layout_marginLeft="5dp"
+        p1:layout_marginRight="5dp"
+        p1:paddingTop="5dp"
+        p1:layout_marginTop="5dp">
+        <TextView
+            p1:id="@+id/textView27"
+            p1:layout_column="0" />
+        <TextView
+            p1:layout_column="1"
+            p1:id="@+id/textView32" />
+        <TextView
+            p1:layout_column="2"
+            p1:id="@+id/textView36" />
+        <TextView
+            p1:layout_column="3"
+            p1:id="@+id/textView37" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow2"
+        p1:layout_marginTop="20dp"
+        p1:layout_marginRight="5dp"
+        p1:layout_marginLeft="5dp">
+        <Button
+            p1:text="ClearallButton"
+            p1:id="@+id/textClearall"
+            p1:layout_width="40dp"
+            p1:keepScreenOn="true" />
+        <Button
+            p1:text="clearButton"
+            p1:id="@+id/textclear"
+            p1:layout_width="40dp"
+            p1:layout_column="1" />
+        <Button
+            p1:text="&lt;-"
+            p1:id="@+id/textback"
+            p1:layout_width="40dp"
+            p1:layout_column="2" />
+        <Button
+            p1:text="Divide  Button"
+            p1:id="@+id/textdiv"
+            p1:layout_width="40dp" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow3"
+        p1:layout_marginTop="20dp"
+        p1:layout_marginRight="5dp"
+        p1:layout_marginLeft="5dp">
+        <Button
+            p1:text="7Button"
+            p1:layout_column="0"
+            p1:id="@+id/text7" />
+        <Button
+            p1:text="8Button"
+            p1:id="@+id/text8"
+            p1:layout_column="1" />
+        <Button
+            p1:text="9Button"
+            p1:id="@+id/text9"
+            p1:layout_column="2" />
+        <Button
+            p1:text="xButton"
+            p1:id="@+id/textmult"
+            p1:layout_column="3" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow4"
+        p1:layout_marginTop="20dp"
+        p1:layout_marginRight="5dp"
+        p1:layout_marginLeft="5dp">
+        <Button
+            p1:text="4Button"
+            p1:id="@+id/text4"
+            p1:layout_column="0" />
+        <Button
+            p1:text="5Button"
+            p1:id="@+id/text5"
+            p1:layout_column="1" />
+        <Button
+            p1:text="6Button"
+            p1:id="@+id/text6"
+            p1:layout_column="2" />
+        <Button
+            p1:text="-Button"
+            p1:id="@+id/textsub"
+            p1:layout_column="3" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow5"
+        p1:layout_marginTop="20dp"
+        p1:layout_marginRight="5dp"
+        p1:layout_marginLeft="5dp">
+        <Button
+            p1:text="1Button"
+            p1:id="@+id/text1"
+            p1:layout_column="0" />
+        <Button
+            p1:text="2Button"
+            p1:id="@+id/text2"
+            p1:layout_column="1" />
+        <Button
+            p1:text="3Button"
+            p1:id="@+id/text3"
+            p1:layout_column="2" />
+        <Button
+            p1:text="+Button"
+            p1:id="@+id/textplus"
+            p1:layout_column="3" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow6"
+        p1:layout_marginTop="20dp"
+        p1:layout_marginRight="5dp"
+        p1:layout_marginLeft="5dp">
+        <Button
+            p1:text=".Button"
+            p1:layout_column="0"
+            p1:id="@+id/textdot" />
+        <Button
+            p1:text="0Button"
+            p1:id="@+id/text0"
+            p1:layout_column="1" />
+        <Button
+            p1:text="=Button"
+            p1:id="@+id/textequ"
+            p1:layout_column="2" />
+        <Button
+            p1:text="%Button"
+            p1:layout_column="3"
+            p1:id="@+id/textpre" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow7"
+        p1:layout_height="match_parent"
+        p1:layout_marginTop="75dp"
+        p1:layout_marginLeft="5dp"
+        p1:layout_marginRight="5dp">
+        <Button
+            p1:text="Mode"
+            p1:layout_column="0"
+            p1:id="@+id/Modebutton" />
+        <TextView
+            p1:text="Large Text"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:id="@+id/textView19"
+            p1:layout_column="2" />
+    </TableRow>
+</TableLayout>
